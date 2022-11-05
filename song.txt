@@ -8,3 +8,5 @@ Druga linijka
 Trzecia linijka
 Czwarta linijka
 ------------------------
+
+Linijka do tagowania
